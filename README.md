@@ -37,7 +37,8 @@ A simple Slack bot that sends a form to team members to collect daily or weekly 
 3. Bot compiles and sends a summary to the manager or channel  
 
 ---
+![image (9)](https://github.com/user-attachments/assets/52028e7c-cd24-4065-93fe-520de945579d)
+![image (10)](https://github.com/user-attachments/assets/aefcc695-ddf7-4def-a3df-bcf338cc6013)
+![image (11)](https://github.com/user-attachments/assets/14870536-90cd-4ded-8aeb-2ef5a4f836cd)
 
-![image.png](attachment:97b479e2-a7c0-43bb-a95d-1da41c0bf951:image.png)
-![image.png](attachment:24f045d8-de63-4eb7-abb3-10c67fb3ff2b:image.png)
-![image.png](attachment:fb84b739-eb81-4f3f-a588-c24780049125:image.png)
+
